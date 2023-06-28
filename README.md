@@ -9,7 +9,8 @@
 
 <div align='center'>
 
-# 👋 Hello, I'm Abdul Fatahillah a student from STT - Terpadu Nurul Fikri
+# 👋 Hello, I'm Abdul Fatahillah
+a student from STT - Terpadu Nurul Fikri
 
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
  
