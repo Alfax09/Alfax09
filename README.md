@@ -17,8 +17,12 @@
   <h4 align="center">“Environment is the invisible hand that shapes human bihavior.”</h4>
   <h6 align="center"> ~ James Clear</h6>
 
-
-[![Abdul Fatahillah - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsfat/abdulsfat/discussions/new?category=ask-me-anything)
-	
-	
  </div>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abdul-fatahillah-333539183/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:abdulfatahillah17@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/abdulsfat99"><img  alt="Abdulsfat99"  src="https://img.shields.io/badge/Instagram-3b5998?style=for-the-badge&logo=instagram&logoColor=white&color=purple" /></a>&nbsp;
+<a href="https://www.facebook.com/fathil09/"><img  alt="fathil09"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
