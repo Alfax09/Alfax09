@@ -33,7 +33,7 @@ Students from STT - Terpadu Nurul Fikri
 Currently, I use this account for the purpose of collecting my coursework.
  
 - 🔭 Looking for more knowledge
-- 🌱 I’m currently learning Web Dev | Flutter
+- 🌱 I’m currently learning Web Dev
 - 📫 How to reach me: abdulfatahillah17@gmail.com <br>
 - 🥅 2023 Goals: Hmm..thinking.!
 - 🧗 I try to: Go beyond and push the boundaries!
